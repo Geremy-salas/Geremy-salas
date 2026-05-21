@@ -66,23 +66,23 @@ const WhatDrivesMe = {
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Geremy-salas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=48D1CC&text_color=B2DFDB&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=geremyjampiersalasgarcia-eng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=48D1CC&text_color=B2DFDB&include_all_commits=true"
     alt="GitHub Stats" height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geremy-salas&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=B2DFDB&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geremyjampiersalasgarcia-eng&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=B2DFDB&langs_count=8"
     alt="Top Languages" height="170"
   />
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Geremy-salas&hide_border=true&background=0D1117&ring=00CED1&fire=48D1CC&currStreakLabel=B2DFDB&sideNums=B2DFDB&sideLabels=00CED1&dates=48D1CC&currStreakNum=B2DFDB" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geremyjampiersalasgarcia-eng&hide_border=true&background=0D1117&ring=00CED1&fire=48D1CC&currStreakLabel=B2DFDB&sideNums=B2DFDB&sideLabels=00CED1&dates=48D1CC&currStreakNum=B2DFDB" alt="GitHub Streak" />
 
 </div>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Geremy-salas&bg_color=0D1117&color=B2DFDB&line=00CED1&point=48D1CC&area_color=00CED1&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=geremyjampiersalasgarcia-eng&bg_color=0D1117&color=B2DFDB&line=00CED1&point=48D1CC&area_color=00CED1&hide_border=true"
   alt="Contribution Graph"
 />
 
@@ -99,8 +99,20 @@ const WhatDrivesMe = {
 
 <br><br>
 
-<!-- FRASE DEV ALEATORIA -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
+<!-- FRASE DEV EN ESPAÑOL -->
+<table width="100%">
+  <tr>
+    <td bgcolor="#0D1117" align="center" style="border: 1px solid #00CED1; border-radius: 8px; padding: 18px;">
+      <span style="color: #00CED1; font-size: 1.15em; font-family: 'Fira Code', monospace; font-style: italic;">
+        "El 80% de los problemas de rendimiento son causados por el 20% del código."
+      </span>
+      <br><br>
+      <span style="color: #B2DFDB; font-size: 0.95em; font-family: 'Fira Code', monospace; font-weight: bold;">
+        — Daniel T. Barry
+      </span>
+    </td>
+  </tr>
+</table>
 
 </div>
 
