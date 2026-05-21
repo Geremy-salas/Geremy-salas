@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a13" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Glowing Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffcc" />
+      <stop offset="50%" stop-color="#00ced1" />
+      <stop offset="100%" stop-color="#0077b6" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03" />
+    </pattern>
+  </defs>
+
+  <!-- Card Container -->
+  <rect width="100%" height="100%" rx="16" fill="url(#bgGrad)" />
+  <rect width="100%" height="100%" rx="16" fill="url(#grid)" />
+
+  <!-- Glowing Border -->
+  <rect x="2" y="2" width="796" height="176" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="2" stroke-opacity="0.8" />
+
+  <!-- Background Quotation Marks -->
+  <text x="30" y="90" font-family="'Fira Code', monospace, sans-serif" font-weight="bold" font-size="120" fill="#00ced1" fill-opacity="0.05">“</text>
+  <text x="730" y="160" font-family="'Fira Code', monospace, sans-serif" font-weight="bold" font-size="120" fill="#00ced1" fill-opacity="0.05">”</text>
+
+  <!-- Quote Text -->
+  <text x="400" y="80" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#f8fafc" text-anchor="middle" letter-spacing="0.5">
+    "El 80% de los problemas de rendimiento son causados
+  </text>
+  <text x="400" y="110" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="500" fill="#f8fafc" text-anchor="middle" letter-spacing="0.5">
+    por el 20% del código."
+  </text>
+
+  <!-- Author Text -->
+  <text x="590" y="145" font-family="'Fira Code', monospace, sans-serif" font-size="14" font-weight="bold" fill="#00ffcc" text-anchor="start">
+    — Daniel T. Barry
+  </text>
+
+  <!-- Subtle Accent Dot -->
+  <circle cx="575" cy="140" r="3" fill="#00ffcc" />
+</svg>

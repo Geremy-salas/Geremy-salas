@@ -65,15 +65,12 @@ const WhatDrivesMe = {
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=geremyjampiersalasgarcia-eng&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00CED1&icon_color=48D1CC&text_color=B2DFDB&include_all_commits=true"
-    alt="GitHub Stats" height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=geremyjampiersalasgarcia-eng&layout=compact&hide_border=true&bg_color=0D1117&title_color=00CED1&text_color=B2DFDB&langs_count=8"
-    alt="Top Languages" height="170"
-  />
+  <a href="https://github.com/geremyjampiersalasgarcia-eng">
+    <img src="https://github-profile-trophy.vercel.app/?username=geremyjampiersalasgarcia-eng&theme=cyan&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -99,20 +96,10 @@ const WhatDrivesMe = {
 
 <br><br>
 
-<!-- FRASE DEV EN ESPAÑOL -->
-<table width="100%">
-  <tr>
-    <td bgcolor="#0D1117" align="center" style="border: 1px solid #00CED1; border-radius: 8px; padding: 18px;">
-      <span style="color: #00CED1; font-size: 1.15em; font-family: 'Fira Code', monospace; font-style: italic;">
-        "El 80% de los problemas de rendimiento son causados por el 20% del código."
-      </span>
-      <br><br>
-      <span style="color: #B2DFDB; font-size: 0.95em; font-family: 'Fira Code', monospace; font-weight: bold;">
-        — Daniel T. Barry
-      </span>
-    </td>
-  </tr>
-</table>
+<!-- FRASE DEV ALEATORIA -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Frase de desarrollo" />
+
+</div>
 
 </div>
 
