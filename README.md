@@ -86,6 +86,24 @@ const WhatDrivesMe = {
   alt="Contribution Graph"
 />
 
+<div align="center">
+
+<br>
+
+<!-- SERPIENTE DE CONTRIBUCIONES -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geremy-salas/Geremy-salas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Geremy-salas/Geremy-salas/output/github-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Geremy-salas/Geremy-salas/output/github-snake.svg" />
+</picture>
+
+<br><br>
+
+<!-- FRASE DEV ALEATORIA -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
+
+</div>
+
 ----------
 
 <h3>🌐 Let's Connect</h3>
