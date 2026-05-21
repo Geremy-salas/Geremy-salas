@@ -9,7 +9,7 @@
 ![Role](https://img.shields.io/badge/Ingeniero_en_Sistemas_de_Informaci%C3%B3n-0d1117?style=for-the-badge&logo=target&logoColor=00CED1)
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ced1,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=00ced1&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ced1,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
 <br>
 
