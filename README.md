@@ -2,6 +2,17 @@
 **Geremy-salas/Geremy-salas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div align="center">
+
+<!-- BARRA DE STATUS -->
+![Status](https://img.shields.io/badge/SYSTEM__STATUS:_ONLINE-0d1117?style=for-the-badge&logo=statuspage&logoColor=00CED1)
+![Role](https://img.shields.io/badge/Ingeniero_en_Sistemas_de_Informaci%C3%B3n-0d1117?style=for-the-badge&logo=target&logoColor=00CED1)
+
+<!-- HEADER ANIMADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ced1,100:0d1117&height=200&section=header&text=GEREMY%20SALAS.&fontSize=52&fontColor=00ced1&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<br>
+
 ### Hi there 👋🏼
 
 ## I'm Geremy Salas 👨🏻‍💻
