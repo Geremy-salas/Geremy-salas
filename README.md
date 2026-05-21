@@ -19,11 +19,17 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-geremysalas.dev-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00CED1)](https://studio-rho-liart.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00CED1)](https://www.linkedin.com/in/geremy-jampier-salas-garcia-6a3a39302) [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00CED1)](https://github.com/geremyjampiersalasgarcia-eng) [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00CED1)](mailto:geremyjampiersalasgarcia@gmail.com)
 
- <img align="right" alt="GIF" height="190px" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00CED1&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Systems+Engineer+from+Ecuador+🇪🇨;Building+Scalable+SaaS+Platforms;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00CED1&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Systems+Engineer+from+Ecuador+🇪🇨;Building+Scalable+SaaS+Platforms;Python+%2B+TypeScript+%2B+FastAPI+%2B+Next.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<table>
+  <tr>
+    <td width="70%" valign="top" align="center">
 
 #### Languages & Frameworks
 
@@ -36,6 +42,13 @@
 #### Tools & Cloud
 
 <p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,supabase,vercel,tailwind,linux&perline=10" /> </a> </p>
+
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 220px; border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 ----------
 
