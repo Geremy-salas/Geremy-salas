@@ -15,8 +15,6 @@
 
 ### Hi there 👋🏼
 
-## I'm Geremy Salas 👨🏻‍💻
-
 ### Systems Engineer | Backend Developer | Tech Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-geremysalas.dev-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00CED1)](https://studio-rho-liart.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00CED1)](https://www.linkedin.com/in/geremy-jampier-salas-garcia-6a3a39302) [![GitHub](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00CED1)](https://github.com/geremyjampiersalasgarcia-eng) [![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00CED1)](mailto:geremyjampiersalasgarcia@gmail.com)
